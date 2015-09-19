@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+ <title>Programming Excuses</title>
+ <meta name="description" content="Programming Excuses" />
+ <style type="text/css">* {margin: 0;} html, body {height: 100%;} .wrapper {min-height: 100%; height: auto !important; height: 100%; margin: 0 auto -8em;} .footer, .push {height: 8em;}</style>
+</head>
+<body>
+ <div class="wrapper">
+  <center style="color: #333; padding-top: 200px; font-family: Courier; font-size: 24px; font-weight: bold;">{excuse}</center>
+  <div class="push"></div>
+ </div>
+</body>
+</html>
